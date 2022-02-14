@@ -1,0 +1,27 @@
+{
+    "name": "Origins #002",
+    "description": "Vanity Origins is the collection of 500 unique realistic 3D rendered diamonds, all in 4k. Each diamond is made by hand without using any generator. There's a 1 in 500 chances of getting a special Purple Quartz Crystal, which will be rewarded with an IRL prize.",
+    "image": "link",
+    "attributes": [
+      {
+        "trait_type": "Needle",
+        "value": ""
+      },
+      {
+        "trait_type": "Rank",
+        "value": ""
+      },
+      {
+        "trait_type": "Colour",
+        "value": "Milk Punch"
+      },
+      {
+      	"trait_type": "Reflection",
+      	"value": "Tundora"
+      },
+      {
+      	"trait_type": "Background",
+      	"value": "Cararra"
+      }
+    ]
+  }
